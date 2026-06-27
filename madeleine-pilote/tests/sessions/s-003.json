@@ -1,0 +1,37 @@
+{
+  "patient_id": "mme-durand",
+  "date": "2026-06-26",
+  "session_id": "s-003",
+  "exercice": "SRT + SFA + Réminiscence",
+  "session_sec": 612,
+  "speaking_sec": 300,
+  "patient_turns": [
+    "Bonjour Madeleine ! Oui j'ai bien dormi, et les roses du jardin sont magnifiques ce matin.",
+    "Camille, ma petite-fille, elle est à Paris, elle étudie l'architecture, je suis si fière d'elle.",
+    "Mon fils Marc passe me voir mercredi, et Hélène appelle souvent le dimanche depuis Nantes.",
+    "Pour le café : l'eau, le filtre, le café moulu, le bouton, et on attend que ça coule. Voilà.",
+    "La tarte Tatin du dimanche, je la faisais toujours, toute la famille adorait ça."
+  ],
+  "annotations": {
+    "rappel_lexical": {
+      "cible": "prénom petite-fille (Camille)",
+      "exact": true,
+      "latence_sec": 4.2,
+      "paraphasies": 0
+    },
+    "sequencage": {
+      "tache": "étapes pour préparer le café",
+      "etapes_correctes": 5,
+      "etapes_total": 5
+    },
+    "engagement": {
+      "maintien_sujet": "bon",
+      "strategies_compensatoires": []
+    }
+  },
+  "drapeaux": [],
+  "measured": {
+    "total_words": 390,
+    "ruptures_count": 35
+  }
+}

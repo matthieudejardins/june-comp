@@ -1,0 +1,38 @@
+{
+  "patient_id": "mme-durand",
+  "date": "2026-06-24",
+  "session_id": "s-002",
+  "exercice": "SRT + SFA",
+  "session_sec": 545,
+  "speaking_sec": 250,
+  "patient_turns": [
+    "Bonjour Madeleine, oui ça va bien aujourd'hui, il fait beau.",
+    "Ma petite-fille, celle qui fait de l'architecture... euh... Camille, oui c'est Camille.",
+    "Elle dessine des bâtiments, des maisons, elle aime beaucoup ça depuis petite.",
+    "Pour le café il faut l'eau, le filtre, le café moulu, et puis... euh... appuyer sur le bouton."
+  ],
+  "annotations": {
+    "rappel_lexical": {
+      "cible": "prénom petite-fille (Camille)",
+      "exact": true,
+      "latence_sec": 5.1,
+      "paraphasies": 1
+    },
+    "sequencage": {
+      "tache": "étapes pour préparer le café",
+      "etapes_correctes": 4,
+      "etapes_total": 5
+    },
+    "engagement": {
+      "maintien_sujet": "partiel",
+      "strategies_compensatoires": [
+        "indiçage sémantique"
+      ]
+    }
+  },
+  "drapeaux": [],
+  "measured": {
+    "total_words": 296,
+    "ruptures_count": 33
+  }
+}

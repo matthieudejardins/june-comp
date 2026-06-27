@@ -1,0 +1,38 @@
+{
+  "patient_id": "mme-durand",
+  "date": "2026-06-22",
+  "session_id": "s-001",
+  "exercice": "SRT + SFA",
+  "session_sec": 480,
+  "speaking_sec": 240,
+  "patient_turns": [
+    "Bonjour... euh... oui j'ai bien dormi je crois.",
+    "Ma petite-fille... comment dire... euh... celle qui dessine les maisons... heu... je ne retrouve pas son nom.",
+    "C'est une jeune fille... euh... elle fait des... des plans, des bâtiments... hum...",
+    "Le café... il faut... euh... mettre l'eau... et puis... ben... je ne sais plus l'ordre."
+  ],
+  "annotations": {
+    "rappel_lexical": {
+      "cible": "prénom petite-fille (Camille)",
+      "exact": false,
+      "latence_sec": 6.8,
+      "paraphasies": 2
+    },
+    "sequencage": {
+      "tache": "étapes pour préparer le café",
+      "etapes_correctes": 3,
+      "etapes_total": 5
+    },
+    "engagement": {
+      "maintien_sujet": "partiel",
+      "strategies_compensatoires": [
+        "circonlocution"
+      ]
+    }
+  },
+  "drapeaux": [],
+  "measured": {
+    "total_words": 256,
+    "ruptures_count": 36
+  }
+}
