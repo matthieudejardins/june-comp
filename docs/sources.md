@@ -12,7 +12,7 @@ knowledge graph. The session behavior maps directly to these.
 - **Evidence-based interventions.** Spaced Retrieval Training + Errorless Learning (SRT/EL),
   Semantic Feature Analysis (SFA) for word-finding, Reminiscence Therapy (RT), Cognitive
   Stimulation Therapy (CST/iCST). Each has its own session mechanics and evidence level,
-  which structure what Madeleine says and does per scenario.
+  which structure what Cognitive Companion says and does per scenario.
 - **Meta-analyses and systematic reviews.** Cochrane review of reminiscence (Woods et al.,
   2018, 22 RCTs) and the CST meta-analysis (Cafferata et al., 2021, Psychological Bulletin,
   44 RCTs): to anchor real effect sizes and known limits (e.g. effects not durable long-term).
